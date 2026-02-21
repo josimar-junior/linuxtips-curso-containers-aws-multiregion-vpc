@@ -4,7 +4,7 @@ project_name = "linuxtips-multiregion"
 
 cidr = "172.16.0.0/16"
 
-availability_zones = [
+availability_zone = [
   "sa-east-1a",
   "sa-east-1b",
   "sa-east-1c"
