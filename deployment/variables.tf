@@ -4,7 +4,7 @@ variable "project_name" {}
 
 variable "cidr" {}
 
-variable "availability_zones" {}
+variable "availability_zone" {}
 
 variable "public_subnets" {}
 
